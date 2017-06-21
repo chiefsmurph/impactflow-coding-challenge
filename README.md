@@ -1,5 +1,4 @@
 # John Murphy's coding challenge for ImpactFlow
------------
 
 ## task: create an event widget that consume an api syntax
 
