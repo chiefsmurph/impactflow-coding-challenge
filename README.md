@@ -1,9 +1,9 @@
-###John Murphy's
-###coding challenge
-###for ImpactFlow
+# John Murphy's
+# coding challenge
+# for ImpactFlow
 -----------
 
-##task: create an event widget that consume an api syntax
+## task: create an event widget that consume an api syntax
 
 ```{
   "event": {
@@ -31,13 +31,14 @@
       }
     ]
   }
-}```
+}
+```
 
 - allow users to add tickets to their cart
 - they should be able to click buy at which point the app shows the all the tickets they added
 
 
-##Usage
+## Usage
 
 `<link rel="stylesheet" href="murphy-event-widget.css">`
 
