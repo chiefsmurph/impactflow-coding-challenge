@@ -40,6 +40,12 @@
 
 ## Usage
 
+`npm install`
+`npm run server`
+`go to http://localhost:8080/dist/example.html`
+
+### Or to use on your own webpage...
+
 `<link rel="stylesheet" href="murphy-event-widget.css">`
 
 `<script src="murphy-event-widget.js"></script>`
